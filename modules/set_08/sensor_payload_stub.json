@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-06-21T20:25:00Z",
+  "light_lux": 85,
+  "sound_db": 49.2,
+  "image_context": ["plant", "green", "leaf"],
+  "mapped_state": {
+    "lighting": "dim_cave",
+    "audio": "conversation",
+    "visual": "organic"
+  }
+}
