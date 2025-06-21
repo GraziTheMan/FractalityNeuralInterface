@@ -1,0 +1,1 @@
+# Placeholder for realtime_receiver_stub.py
