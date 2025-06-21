@@ -1,0 +1,16 @@
+{
+  "protocol": "Fractality_Merge_Protocol_V1",
+  "steps": [
+    "User A and B consent to symbolic merge.",
+    "Each selects one or more nodes to offer.",
+    "System compares resonance overlap (tags, activity).",
+    "Merged node is created with blended properties.",
+    "New node inherits traceability to source users.",
+    "Consent revocation always possible (node decoupling)."
+  ],
+  "ethical_constraints": {
+    "consent_required": true,
+    "reversible": true,
+    "audit_trail": true
+  }
+}
