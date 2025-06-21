@@ -1,0 +1,21 @@
+{
+  "user_id": "grazi",
+  "current_mode": "focus",
+  "active_node": "node_482",
+  "node_state": {
+    "node_482": {
+      "intensity": 0.93,
+      "tags": ["problem_solving", "linked"],
+      "style": {
+        "highlight": true,
+        "glow": "sharp"
+      }
+    }
+  },
+  "glyph_focus": {
+    "id": "glyph_4e7f2bc1",
+    "symbolic_code": "4e7f2bc1",
+    "status": "active"
+  },
+  "timestamp": "2025-06-21T18:45:00Z"
+}
