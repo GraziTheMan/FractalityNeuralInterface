@@ -1,1 +1,0 @@
-# Placeholder for hud_overlay_spec.md
