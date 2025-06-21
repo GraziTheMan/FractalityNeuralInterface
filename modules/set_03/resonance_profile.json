@@ -1,0 +1,25 @@
+{
+  "user_id": "grazi_default",
+  "default_mode": "calm",
+  "filters": {
+    "alpha_peak": "calm",
+    "beta_burst": "focus",
+    "theta_surge": "dream",
+    "gamma_sync": "focus",
+    "p300_response": "focus"
+  },
+  "feedback_map": {
+    "alpha_peak": {
+      "visual": "soft_glow"
+    },
+    "beta_burst": {
+      "audio": "chime_rise"
+    },
+    "theta_surge": {
+      "visual": "dream_trail"
+    },
+    "gamma_sync": {
+      "haptic": "pulse"
+    }
+  }
+}
