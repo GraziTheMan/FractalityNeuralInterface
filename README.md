@@ -11,7 +11,62 @@ A living neural-symbolic bridge for the **Fractality Project**—where brainwave
 
 ## 📂 Repository Structure
 
-FractalityNeuralInterface/ ├── README.md ├── docs/ │   ├── FNI_001_Architecture_Overview.md │   ├── FNI_002_Fractality_Brain_Interface_Protocol.md │   ├── FNI_003_Signal_Pattern_Interpretation_Library.md │   ├── FNI_004_Wearable_Hardware_Survey.md │   ├── FNI_005_Local_AI_Node_Assistants.md │   ├── FNI_006_Biofeedback_Loop_Design.md │   ├── FNI_007_Integration_with_FUDGE_UI.md │   ├── FNI_008_Speculative_Interfaces.md │   ├── FNI_009_Ethical_Implications_and_Consent.md │   └── FNI_010_Dream_State_Signal_Parsing.md ├── modules/ │   ├── set_01/ │   │   ├── neural_event_router.js │   │   ├── pattern_detector.py │   │   ├── dream_node_generator.py │   │   └── fbip_schema.json │   ├── set_02/ │   │   ├── node_agent_swarm_simulator.py │   │   ├── hud_overlay_spec.md │   │   └── realtime_receiver_stub.py │   ├── set_03/ │   │   ├── feedback_actuator.py │   │   ├── perceptual_filter_engine.py │   │   └── resonance_profile.json │   ├── set_04/ │   │   ├── glyph_generator.py │   │   ├── node_evolution_engine.py │   │   └── trail_sculptor.py │   ├── set_05/ │   │   ├── cross_user_merge_engine.py │   │   ├── multi_agent_choreographer.py │   │   └── symbolic_merge_protocol.json │   ├── set_06/ │   │   ├── temporal_cognition_tracker.py │   │   ├── cognitive_timeline_serializer.py │   │   └── temporal_glyph_shift_engine.py │   ├── set_07/ │   │   ├── device_sync_manager.py │   │   ├── sync_protocol_spec.md │   │   └── syncable_state_stub.json │   ├── set_08/ │   │   ├── neuroenvironment_bridge.py │   │   ├── sensor_fusion_spec.md │   │   └── sensor_payload_stub.json │   ├── set_09/ │   │   ├── resonance_packet_broadcaster.py │   │   ├── resonance_packet_receiver.py │   │   └── resonance_web_protocol.md │   └── set_10/ │       ├── ritual_invocation_engine.py │       ├── session_ritual_library.md │       └── session_invocation_stub.json └── LICENSE
+FractalityNeuralInterface/
+├── README.md
+├── LICENSE
+├── docs/
+│   ├── FNI_001_Architecture_Overview.md
+│   ├── FNI_002_Fractality_Brain_Interface_Protocol.md
+│   ├── FNI_003_Signal_Pattern_Interpretation_Library.md
+│   ├── FNI_004_Wearable_Hardware_Survey.md
+│   ├── FNI_005_Local_AI_Node_Assistants.md
+│   ├── FNI_006_Biofeedback_Loop_Design.md
+│   ├── FNI_007_Integration_with_FUDGE_UI.md
+│   ├── FNI_008_Speculative_Interfaces.md
+│   ├── FNI_009_Ethical_Implications_and_Consent.md
+│   └── FNI_010_Dream_State_Signal_Parsing.md
+├── modules/
+│   ├── set_01/
+│   │   ├── neural_event_router.js
+│   │   ├── pattern_detector.py
+│   │   ├── dream_node_generator.py
+│   │   └── fbip_schema.json
+│   ├── set_02/
+│   │   ├── node_agent_swarm_simulator.py
+│   │   ├── hud_overlay_spec.md
+│   │   └── realtime_receiver_stub.py
+│   ├── set_03/
+│   │   ├── feedback_actuator.py
+│   │   ├── perceptual_filter_engine.py
+│   │   └── resonance_profile.json
+│   ├── set_04/
+│   │   ├── glyph_generator.py
+│   │   ├── node_evolution_engine.py
+│   │   └── trail_sculptor.py
+│   ├── set_05/
+│   │   ├── cross_user_merge_engine.py
+│   │   ├── multi_agent_choreographer.py
+│   │   └── symbolic_merge_protocol.json
+│   ├── set_06/
+│   │   ├── temporal_cognition_tracker.py
+│   │   ├── cognitive_timeline_serializer.py
+│   │   └── temporal_glyph_shift_engine.py
+│   ├── set_07/
+│   │   ├── device_sync_manager.py
+│   │   ├── sync_protocol_spec.md
+│   │   └── syncable_state_stub.json
+│   ├── set_08/
+│   │   ├── neuroenvironment_bridge.py
+│   │   ├── sensor_fusion_spec.md
+│   │   └── sensor_payload_stub.json
+│   ├── set_09/
+│   │   ├── resonance_packet_broadcaster.py
+│   │   ├── resonance_packet_receiver.py
+│   │   └── resonance_web_protocol.md
+│   └── set_10/
+│       ├── ritual_invocation_engine.py
+│       ├── session_ritual_library.md
+│       └── session_invocation_stub.json
 
 ---
 
